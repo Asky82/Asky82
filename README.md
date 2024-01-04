@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Asky82
 - 👀 I’m interested in Smart Home so far.
 - 🌱 I’m currently learning Home assistant.
-- Relevant experience with Siemens's PLC,Drives,HMI,SCADA programming and I4.0.
+- 👷‍♂️  Relevant experience with Siemens's PLC,Drives,HMI,SCADA programming and I4.0.
 - 
 - 
 
